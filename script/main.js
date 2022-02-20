@@ -1,7 +1,7 @@
 var expectedEncryptedEvents = 2
 var config = [{
     initDataTypes: ['cenc'],
-    videoCapabilities: [{ contentType: 'video/mp4; codecs="avc1.640029"' }],
+    videoCapabilities: [{ contentType: 'video/mp4; codecs="avc1.640028"' }],
     audioCapabilities: [{ contentType: 'audio/mp4; codecs="mp4a.40.2"' }]
 }];
 
